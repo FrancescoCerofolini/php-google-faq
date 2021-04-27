@@ -1,0 +1,8 @@
+$text-color: #777777;
+$title-color: #000000;
+$footer-background: #f5f5f5;
+$blue-color: #3367d6;
+
+@mixin text {
+    color: $text-color;
+}
